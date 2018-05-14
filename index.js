@@ -5,4 +5,4 @@ var animate = lottie.loadAnimation({
   autoplay: true,
   path: 'data.json'
 })
-animate.playSegments([[0,29], [29,59]],true);
+animate.playSegments([[0,25], [30,90]],true);
