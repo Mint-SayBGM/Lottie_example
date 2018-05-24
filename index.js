@@ -5,3 +5,5 @@ var animate = lottie.loadAnimation({
   loop:true,
   path: 'animation2.json'
 })
+
+animate.setSpeed(2);
